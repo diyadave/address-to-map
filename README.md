@@ -29,6 +29,9 @@ This is a simple Jupyter Notebook project that takes a user-input address and ge
 > You can run this notebook locally or try it on Google Colab.
 
 ---
+🙋‍♀️ About Me
+I'm Diya Dave, currently doing my Master's in Advanced Computing and working as a Data Science Intern. I'm passionate about AI, ML, and building creative Python projects! 🚀
+
 
 ## 📥 How to Run
 
@@ -39,3 +42,7 @@ pip install geopy folium
 
 Open the notebook in Jupyter:
 jupyter notebook map_generator.ipynb
+
+
+
+
